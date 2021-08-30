@@ -1,9 +1,9 @@
 # ignews
- Application for blog and forums to monetize your information(NEXT.JS)
- For payments use STRIPE.
- For Database use FAUNADB ( Use a context SERVELESS )
- And use a PRISMIC (CMS)
- Use SSR (Server-side Rendering)
+ Application for blog and forums to monetize your information(NEXT.JS);
+ For payments use STRIPE;
+ For Database use FAUNADB ( Use a context SERVELESS );
+ And use a PRISMIC (CMS);
+ Use SSR (Server-side Rendering);
 
 STYLE:
 For styling we use the SASS preprocessor for CSS, 
